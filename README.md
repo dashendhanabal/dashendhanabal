@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dashen. Im currently working as a production support engineer.
-- 👀 I’m interested in Application development using the spring framework as well as Cloud infra technologies
-- 🌱 I’m currently learning advanced SQl techniques such as query optimization/performance tuning
+- 👀 I’m interested in Application development using the Spring framework as well Web Development
+- 🌱 
 - 📫 You can reach out to me via my email: dashendhanabal94@gmail.com
 
 <!---
